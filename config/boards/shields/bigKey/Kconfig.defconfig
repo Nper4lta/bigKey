@@ -1,0 +1,4 @@
+if SHIELD_BIGKEY
+    config ZMK_KEYBOARD_NAME
+        default "bigKey"
+endif
